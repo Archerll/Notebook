@@ -14,7 +14,7 @@
 
 ### 创始人
 
-Doug 
+Doug Cutting
 
 ### Hadoop常用发行版
 
