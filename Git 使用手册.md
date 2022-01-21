@@ -4,7 +4,7 @@
 
 ## Git的基本命令
 
-### 配置用户名和邮箱
+### 配置用户名和邮箱 
 
 配置全局名称```git config --global user.name 'name'```
 
