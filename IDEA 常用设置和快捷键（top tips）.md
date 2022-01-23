@@ -9,5 +9,5 @@
 - Theme可以选择不同的IDEA主题
 - 勾选Use custom font 可以调节IDEA面板的字体和大小
 
-![image-20220120175401624](E:\Archer\Documents\markdown\Notebook\image\ideasetting1.png)
+![image-20220120175401624](.\image\ideasetting1.png)
 
