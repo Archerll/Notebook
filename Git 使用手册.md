@@ -10,6 +10,10 @@
 
 配置全局emial ```git config --global user.email 'email'```
 
+
+
+---
+
 ## 如何使用Git同步本地文件到GitHub
 
 新建一个文件夹，在其中添加想要上传的文件
@@ -29,6 +33,8 @@
 6.执行```git push -u orign master```
 
 
+
+---
 
 ## 如何查看修改历史
 
