@@ -2,7 +2,57 @@
 
 ## Git的基本概述
 
+
+
 ## Git的基本命令
+
+`git init`
+
+`git clone`
+
+
+
+`git add`
+
+`git mv`
+
+`git restore`
+
+`git rm`
+
+
+
+`git bisect`
+
+`git diff`
+
+`git grep`
+
+`git log`
+
+`git status`
+
+
+
+`git branch`
+
+`git commit`
+
+`git merge`
+
+`git reset`
+
+
+
+
+
+`git fetch`
+
+`git pull`
+
+`git push`
+
+
 
 ### 配置用户名和邮箱 
 
@@ -39,6 +89,10 @@
 ## 如何查看修改历史
 
 ```git branch```
+
+`git branch --all`   
+
+`git checkout`
 
 ```git status```
 
