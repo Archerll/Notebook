@@ -6,19 +6,19 @@
 
 ## Git的基本命令
 
-`git init`
+`git init`  git 初始化
 
-`git clone`
+`git clone` 从仓库克隆一个分支
 
 
 
-`git add`
+`git add` 将修改添加到本地仓库
 
 `git mv`
 
-`git restore`
+`git restore` 回滚未提交的修改
 
-`git rm`
+`git rm` 从本地仓库中删除一个文件
 
 
 
@@ -28,15 +28,21 @@
 
 `git grep`
 
-`git log`
+`git log` 查看日志
 
 `git status`
 
+- 解决 git status 中文乱码问题
 
+git  bash终端键入
+
+```shell
+git config --global core.quotepath false
+```
 
 `git branch`
 
-`git commit`
+`git commit` 
 
 `git merge`
 
@@ -48,9 +54,9 @@
 
 `git fetch`
 
-`git pull`
+`git pull`  从master拉取最新的更改
 
-`git push`
+`git push` 将最新的修改推送到master分支
 
 
 
@@ -88,13 +94,13 @@
 
 ## 如何查看修改历史
 
-```git branch```
+```git branch``` 查看分支
 
-`git branch --all`   
+`git branch --all`   查看全部分支
 
-`git checkout`
+`git checkout` 
 
-```git status```
+```git status``` 查看
 
 ```git log```
 
