@@ -24,27 +24,27 @@
 
 `git bisect`
 
-`git diff`
+`git diff` 比较两个文件的差异
 
 `git grep`
 
 `git log` 查看日志
 
-`git status`
+`git status` 
 
 - 解决 git status 中文乱码问题
 
-git  bash终端键入
+​	git  bash终端键入
 
 ```shell
 git config --global core.quotepath false
 ```
 
-`git branch`
+`git branch` 查看当前分支
 
-`git commit` 
+`git commit` 提交分支
 
-`git merge`
+`git merge` 合并分支
 
 `git reset`
 
