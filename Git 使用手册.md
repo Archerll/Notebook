@@ -72,6 +72,8 @@ git config --global core.quotepath false
 
 ## 如何使用Git同步本地文件到GitHub
 
+> 备注：在同步前需要在本机中创建密钥，并将公钥添加到github
+
 新建一个文件夹，在其中添加想要上传的文件
 
 1.执行```git init``` 使用git初始化文件夹，git会自动创建一个master分支
